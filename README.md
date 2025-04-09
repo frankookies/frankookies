@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Francesca, an aspiring computer programmer! 👩🏻‍💻<br><br>My curiosity and passion drives me to inspire other Canadian Girls in Tech! 💜 ✨<br><br>I'm a Computer Programming and Analysis student at Seneca Polytechnic, <br><br> learning programming languages, program design and system analysis. 💻
+Hello! My name is Francesca, an aspiring computer programmer! 👩🏻‍💻<br>My curiosity and passion drives me to inspire other Canadian Girls in Tech! 💜 ✨<br>I'm a Computer Programming and Analysis student at Seneca Polytechnic,<br>learning programming languages, program design and system analysis. 💻
 
 
 ## 🌐 Socials:
